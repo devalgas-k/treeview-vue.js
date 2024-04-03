@@ -1,0 +1,127 @@
+[
+  {
+    "text": "Tax Bureau",
+    "nodes": [
+      {
+        "text": "Tax Division",
+        "nodes": [
+          {
+            "text": "Tax Analyst",
+            "nodes": [
+              {
+                "text": "Tax Manager",
+                "link": {
+                  "type": "link",
+                  "value": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/American_Eskimo_Dog_1.jpg/1920px-American_Eskimo_Dog_1.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "text": "Tax Collector"
+          },
+          {
+            "text": "Tax Consultant",
+            "nodes": [
+              {
+                "text": "Tax Advisor (Router-link)",
+                "link": {
+                  "type": "link",
+                  "value": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/American_Eskimo_Dog_1.jpg/1920px-American_Eskimo_Dog_1.jpg"
+                }
+              },
+              {
+                "text": "Tax Lawyer (Router-link)",
+                "link": {
+                  "type": "link",
+                  "value": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/American_Eskimo_Dog_1.jpg/1920px-American_Eskimo_Dog_1.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "text": "Tax Inspector"
+          },
+          {
+            "text": "Tax Auditor",
+            "nodes": [
+              {
+                "text": "Tax Accountant",
+                "link": {
+                  "type": "link",
+                  "value": "https://animalsbreeds.com/wp-content/uploads/2015/07/Deutsche-Bracke.jpg"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Tax Commission",
+        "nodes": [
+          {
+            "text": "Tax Office"
+          },
+          {
+            "text": "Tax Authority"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Revenue Department",
+    "nodes": [
+      {
+        "text": "Directorate General of Taxes",
+        "nodes": [
+          {
+            "text": "Ministry of Finance"
+          },
+          {
+            "text": "State Administration of Taxation"
+          }
+        ]
+      },
+      {
+        "text": "Federal Tax Service",
+        "nodes": [
+          {
+            "text": "National Tax Agency"
+          },
+          {
+            "text": "Department of Revenue",
+            "nodes": [
+              {
+                "text": "Internal Revenue Service",
+                "link": {
+                  "type": "link",
+                  "value": "https://www.pets4homes.co.uk/images/articles/4198/what-is-a-suphalak-cat-5947aefcd4845.jpg"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Her Majesty's Revenue and Customs (Router-link)",
+    "link": {
+      "type": "link",
+      "value": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/American_Eskimo_Dog_1.jpg/1920px-American_Eskimo_Dog_1.jpg"
+    },
+    "icon": "folder",
+    "nodes": [
+      {
+        "text": "Canada Revenue Agency (Router-link)",
+        "link": {
+          "type": "router-link",
+          "key": "path",
+          "value": "/about"
+        },
+        "icon": "file"
+      }
+    ]
+  }
+]
